@@ -4,8 +4,10 @@
   <h1>✨ Welcome to Sajandora's GitHub ✨</h1>
 </div>
 
+<div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sajandora&show_icons=true&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajandora&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <!-- 기술 스택 -->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -16,7 +18,7 @@
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=aws&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
 </div>
 
