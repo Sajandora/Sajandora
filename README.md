@@ -4,10 +4,10 @@
   <h1>✨ Welcome to Sajandora's GitHub ✨</h1>
 </div>
 
-
+<div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sajandora&show_icons=true&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajandora&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 
 <!-- 기술 스택 -->
 <h3 align="center">✨ Tech Stack ✨</h3>
