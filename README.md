@@ -4,6 +4,9 @@
   <h1>✨ Welcome to Sajandora's GitHub ✨</h1>
 </div>
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sajandora&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=Sajandora&show_icons=true&theme=catppuccin_latte">
     <img src="https://github-readme-stats.vercel.app/api?username=Sajandora&show_icons=true&theme=catppuccin_latte" />
