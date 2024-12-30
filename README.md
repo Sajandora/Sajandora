@@ -4,11 +4,11 @@
   <h1>✨ Welcome to Sajandora's GitHub ✨</h1>
 </div>
 
-## 🏆 GitHub Trophies
 <div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sajandora&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://github-profile-trophy.vercel.app/?username=Sajandora&theme=algolia">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sajandora&theme=algolia" alt="GitHub Trophies" />
+  </a>
 </div>
-
 
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=Sajandora&show_icons=true&theme=catppuccin_latte">
