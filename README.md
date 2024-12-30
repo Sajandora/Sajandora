@@ -5,7 +5,10 @@
 </div>
 
 ## 🏆 GitHub Trophies
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sajandora&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
 
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=Sajandora&show_icons=true&theme=catppuccin_latte">
