@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!-- 타이틀 부분 -->
 <div align="center">
-  <h1>✨ Welcome to Sajandora's GitHub ✨</h1>
+  <img src="https://github.com/yourusername/yourrepo/assets/yourgif.gif" alt="Welcome GIF" width="600">
 </div>
 
 <div align="center">
