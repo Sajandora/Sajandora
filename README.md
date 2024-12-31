@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=Sajandora&theme=algolia&title=-reviews">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sajandora&theme=algolia&title=-reviews" alt="GitHub Trophies" />
+  <a href="https://github-profile-trophy.vercel.app/?username=Sajandora&theme=algolia&title=-Reviews">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sajandora&theme=algolia&title=-Reviews" alt="GitHub Trophies" />
   </a>
 </div>
 
