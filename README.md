@@ -1,6 +1,6 @@
 <!-- 타이틀 부분 -->
 <div align="center">
-  <img src="https://github.com/Sajandora/Sajandora/raw/assets/profile.gif" alt="Welcome to Sajandora's GitHub!" width="600">
+  <img src="https://github.com/Sajandora/Sajandora/raw/assets/profile" alt="Welcome to Sajandora's GitHub!" width="600">
 </div>
 
 <div align="center">
